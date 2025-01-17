@@ -1,3 +1,3 @@
-# companion-module-[replace with module name]
+# companion-module-smokotnin-opensoundmeter
 
 See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
