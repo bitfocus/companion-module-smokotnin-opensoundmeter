@@ -3,7 +3,7 @@
 	"name": "smokotnin-opensoundmeter",
 	"shortname": "Open Sound Meter",
 	"description": "Import Open Sound Meter level data into Companion using the Open Sound Meter API",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-smokotnin-opensoundmeter.git",
 	"bugs": "https://github.com/bitfocuscompanion-module-smokotnin-opensoundmeter/issues",
@@ -14,7 +14,7 @@
 		}
 	],
 	"runtime": {
-		"type": "node18",
+		"type": "node26",
 		"api": "nodejs-ipc",
 		"apiVersion": "0.0.0",
 		"entrypoint": "../main.js"
